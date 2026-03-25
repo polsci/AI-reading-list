@@ -30,7 +30,7 @@ These are links that LLMs and how they work as probabilistic next word predictor
 
 * [Wolfram, S. (2023). "What Is ChatGPT Doing and Why Does It Work?"](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)  
 * [Bender, E. M., et al. (2021). "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922)  
-* [Doctorow (2003) "Plausible sentence generators"](https://locusmag.com/feature/  commentary-by-cory-doctorow-plausible-sentence-generators/)  
+* [Doctorow "Plausible sentence generators"](https://locusmag.com/feature/commentary-by-cory-doctorow-plausible-sentence-generators/)  
 * [De-anthropomorphizing “AI”: From wishful mnemonics to accurate nomenclature ](https://firstmonday.org/ojs/index.php/fm/article/view/14366)  
 
 ## LLMs hallucinations, bullshit, and what LLMs know  
