@@ -2,19 +2,36 @@
 
 [Geoff Ford](https://geoffford.nz/)
 
-This reading list is intended for students in ARTS102 and DIGI405. I will update it from time to time with interesting articles on different aspects of generative AI. I've released on Github in case it is useful for others.  
+This reading list is intended for students in ARTS102 and DIGI405. I will update it from time to time with interesting articles on different aspects of generative AI. If you are a student in ARTS/DIGI, feel free to email me with suggested reading to add here.  
+
+I've released on Github in case it is useful for others.  
 
 The focus here is on understanding the output of large language models (LLMs) and some of the key problems with the technology. The focus on problems or limitations is intentional. There is no shortage of hype about gen AI and its benefits for society (and "learners") from tech companies and AI boosters. You will have no problem finding sources, including academic research, from this perspective.  
 
 **For students in ARTS102**, you should note that some of the sources below have not been through a process of peer review. In some cases, that is because the work is intended for a non-academic audience. In other cases, this is more to do with publishing practices in the specific field. Research on LLMs and generative AI is often released as preprints prior to submission to a peer-reviewed journal. In some cases research is published in the proceedings of conferences and papers undergo a process of peer review before being published. In some cases the research will never undergo traditional peer review, but you will find discussion and critique in work that cites them if they become influential.   
 
+There are readings related to the following:  
+
+* [Introduction to LLMs](#introduction-to-llms)  
+* [LLMs hallucinations, bullshit, and what LLMs know](#user-content-llms-hallucinations-bullshit-and-what-llms-know)  
+* [Hallucinated evidence](#hallucinated-evidence)  
+* [Bias](#bias)  
+* [Sycophancy](#sycophancy)  
+* [Training data](#training-data)  
+* [Understanding system prompts](#understanding-system-prompts)  
+* [Environmental impact](#environmental-impact)  
+* [Human impact](#human-impact)  
+* [Hacking LLMs](#hacking-llms)  
+* [Generated images and video](https://github.com/polsci/AI-reading-list#generated-images-and-video)  
+
 ## Introduction to LLMs    
 
-These are links that LLMs and how they work as probabilistic next word predictors. The "Stochastic Parrots" article introduces some of the big issues, including environmental costs, the problems with massive data-sets of scraped data sourced from the internet (e.g. bias, baking in "hegemonic worldviews"), and points out a disconnect between parroting language and "understanding". Doctorow, a sci-fi author and tech activist, frames LLMs as "plausible sentence generators".   
+These are links that LLMs and how they work as probabilistic next word predictors. The "Stochastic Parrots" article introduces some of the big issues, including environmental costs, the problems with massive data-sets of scraped data sourced from the internet (e.g. bias, baking in "hegemonic worldviews"), and points out a disconnect between parroting language and "understanding". Doctorow, a sci-fi author and tech activist, frames LLMs as "plausible sentence generators". Finally, there is an article that discusses the tendency to anthropomorphize generative AI, and some ways to avoid this.  
 
 * [Wolfram, S. (2023). "What Is ChatGPT Doing and Why Does It Work?"](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)  
 * [Bender, E. M., et al. (2021). "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922)  
-* [Doctorow (2003) "Plausible sentence generators"](https://locusmag.com/feature/commentary-by-cory-doctorow-plausible-sentence-generators/)  
+* [Doctorow (2003) "Plausible sentence generators"](https://locusmag.com/feature/  commentary-by-cory-doctorow-plausible-sentence-generators/)  
+* [De-anthropomorphizing “AI”: From wishful mnemonics to accurate nomenclature ](https://firstmonday.org/ojs/index.php/fm/article/view/14366)  
 
 ## LLMs hallucinations, bullshit, and what LLMs know  
 
@@ -96,7 +113,7 @@ The links below discuss prompt injection and other vulnerabilities of LLMs, incl
 * [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)  
 * [Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://dl.acm.org/doi/10.1145/3605764.3623985)   
 
-## Generated images and videos
+## Generated images and video
 
 I will add some more links here at some point, but this is an interesting read for now:  
 
